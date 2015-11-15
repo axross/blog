@@ -1,0 +1,11 @@
+{
+  "DATABASE_HOST": "127.0.0.1",
+  "DATABASE_USER": "boarduser",
+  "DATABASE_PASSWORD": "boarduser",
+  "DATABASE_NAME": "board",
+  "DATABASE_POOL": {
+    "max": 5,
+    "min": 0,
+    "idle": 10000
+  }
+}
